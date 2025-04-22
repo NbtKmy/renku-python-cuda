@@ -1,4 +1,4 @@
-- id: python-cuda
+- folder: python-cuda
   name: Python (3.11) with cuda Project
   description: A Python Renku with cuda project.
   icon: python.png

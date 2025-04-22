@@ -1,4 +1,4 @@
-# Python plus cuda
+# {{ name }}
 {% if __project_description__ %}
 {{ __project_description__ }}
 {% endif %}

@@ -1,0 +1,6 @@
+- id: python-cuda
+  name: Python (3.11) with cuda Project
+  description: A Python Renku with cuda project.
+  variables: {}
+  icon: python.png
+  ssh_supported: true
